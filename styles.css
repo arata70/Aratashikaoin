@@ -46,7 +46,7 @@ body {
     max-width: 400px;
     text-align: center;
     padding: 10px;
-    margin-top: 50px;
+    margin-top: 30px;
     background-color: #ffffff54;
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -54,7 +54,6 @@ body {
 .links {
     display: flex;
     flex-direction: column;
-    
     gap: 15px;
 }
 
@@ -62,7 +61,7 @@ body {
 .link {
     display: block;
     text-decoration: none;
-    padding: 15px;
+    padding: 20px;
     background-color: #3d434b21;
     color: rgb(0, 0, 0);
     border-radius: 8px;
